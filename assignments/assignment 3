@@ -1,5 +1,5 @@
 print("from start=0")
-names=['thrishala','bhavani','keerthy']
+names=['rithwik','charan','ajay']
 for indx,name in enumerate(names,start=0):
     print(f"{indx} . {name}")
 
@@ -13,8 +13,8 @@ string="python"
 for ind,ch in enumerate(string):
     print(f"{ind} . {ch}")
 
-#list of enumeratenames=['thrishala','bhavani','keerthy']
-names=['thrishala','bhavani','keerthy']
+#list of enumeratenames=['rithwik','charan','ajay']
+names=['rithwik','charan','ajay']
 new_names=list(enumerate(names))
 print(new_names)
 
