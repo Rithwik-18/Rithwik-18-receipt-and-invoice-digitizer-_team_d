@@ -17,7 +17,7 @@ nltk.download('words')
 print("PROGRAM STARTED\n")
 
 # -------- SAMPLE TEXT --------
-text = "Hi my name is Thrishala and I'm currently pursuing my 2nd B-Tech in SVECW."
+text = "Hi my name is Rithwik and I'm currently pursuing B-tech 2nd year at VRSEC."
 
 # -------- TEXT PREPROCESSING --------
 
